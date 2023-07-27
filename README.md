@@ -84,6 +84,14 @@ Here are some commands for manipulating databases:
 
 `DROP INDEX` - deletes an index
 
+## Jobs in Cleveland Ohio that require SQL
+- SQL Analyst at [Turn5: A fast-growing e-commerce company](https://careers-turn5.icims.com/jobs/2434/sql-developer/job
+- Database Analyst at [The Cuyahoga County Prosecutor's Office](https://prosecutor.applicantstack.com/x/detail/a2p404yg5en5) • $72,571 - $87,048
+- Developer/Data Analyst Senior [Progressive Insurance](https://progressive.taleo.net/careersection/2/jobdetail.ftl?job=214145&iniurl.src=CWS-11480&tz=GMT-04:00&tzname=America/New_York) • $68,100-$90,800
+
+and more:
+
+
 
 ## Resources
 
